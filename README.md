@@ -7,3 +7,6 @@ The thing is that seems to work fine and actually the answers are somewhat funny
 Overall I'm proud of the project since made me learn how to work with text in NN.
 
 PD: Also It's implemented within the code language detection (google translator) so supports change of languages and the answer will match it. Very simple stuff but quite impressive.
+
+The datasets are available for download here:
+https://www.kaggle.com/account/login?returnUrl=%2Fkausr25%2Fchatterbotenglish%2Fversion%2F1
